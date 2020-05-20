@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15117647008",
+    "firebase_url": "https://whogame-167fd.firebaseio.com",
+    "project_id": "whogame-167fd",
+    "storage_bucket": "whogame-167fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15117647008:android:3ae1430609165f4b265dc5",
+        "android_client_info": {
+          "package_name": "com.example.whogame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15117647008-ttbs68bv55ot7rbvru8ramemvehvfl9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOSeY0ATsTGL1KDdWp8nlyMwqiBZUHWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15117647008-ttbs68bv55ot7rbvru8ramemvehvfl9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
